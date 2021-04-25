@@ -1,0 +1,1141 @@
+{
+    "list": [
+        {
+            "currencyPair": {
+                "buy": "USD",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 4306900,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "EUR",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 5184200,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "RUB",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 56600,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "GBP",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 5986200,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "KGS",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 50800,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "CHF",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 4715800,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "JPY",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 39900,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "CNY",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 661700,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "BYN",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 1665100,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "HKD",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 554400,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "HUF",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 143900,
+                            "multiplier": 10,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "INR",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 57500,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "IRR",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 103000,
+                            "multiplier": 1000,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "KRW",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 386700,
+                            "multiplier": 100,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "KWD",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 14312000,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "MDL",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 240900,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "MXN",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 217100,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "MYR",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 1044900,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "NOK",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 519200,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "PLN",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 1140100,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "SAR",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 1148400,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "SEK",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 513600,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "SGD",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 3236600,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "THB",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 138200,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "TJS",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 381000,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "TRY",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 533600,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "UAH",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 153900,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "UZS",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 41100,
+                            "multiplier": 100,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "XDR",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 6159100,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "GEL",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 1259300,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "DKK",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 697300,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "CZK",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 200100,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "CAD",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 3452400,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "BRL",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 770900,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "AZN",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 2543900,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "AUD",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 3351600,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "ZAR",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 303000,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "AED",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 1172600,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "currencyPair": {
+                "buy": "AMD",
+                "sale": "KZT"
+            },
+            "rates": [
+                {
+                    "date": "2021-04-20",
+                    "type": {
+                        "code": "NATIONAL_BANK",
+                        "name": "Рыночный курс обмена валют"
+                    },
+                    "state": {
+                        "code": "ACTUAL",
+                        "name": "Актуальный"
+                    },
+                    "business": {
+                        "code": "GENERAL",
+                        "name": "Общий"
+                    },
+                    "rate": {
+                        "nationalBank": {
+                            "value": 82600,
+                            "multiplier": 10,
+                            "minorUnits": 10000
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+
